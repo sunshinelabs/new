@@ -32,7 +32,7 @@ void ptest_start(void);
 // this is the ESP SDK C starting point    hello simon132321
 void app_main()
 {
-// initialise the platform IO system otherwise printf wont work
+// initialise the platform IO system otherwise printf wont work helllo  barry123
 io_init();
 /* Print chip information */
 esp_chip_info_t chip_info;
